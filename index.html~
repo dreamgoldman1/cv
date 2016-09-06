@@ -186,11 +186,11 @@
                         <div class="col-md-3 col-sm-6 md-margin-b-4">
                             <div class="service" data-height="height">
                                 <div class="service-element">
-                                    <i class="service-icon icon-mustache"></i>
+                                    <i class="service-icon icon-cloud"></i>
                                 </div>
                                 <div class="service-info">
-                                    <h3>Illustrator</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <h3>Servidores</h3>
+                                    <p class="margin-b-5">Administración de servidores en la nube como AWS sobre Linux.</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>    
                             </div>
@@ -201,8 +201,8 @@
                                     <i class="service-icon color-white icon-screen-tablet"></i>
                                 </div>
                                 <div class="service-info">
-                                    <h3 class="color-white">Graphic Design</h3>
-                                    <p class="color-white margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <h3 class="color-white">Web Servers</h3>
+                                    <p class="color-white margin-b-5">Configuración de Web Servers para ambientes de desarrollo Php, como Apache</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>    
                             </div>
@@ -213,8 +213,8 @@
                                     <i class="service-icon icon-chemistry"></i>
                                 </div>
                                 <div class="service-info">
-                                    <h3>Photoshop</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <h3>Drupal</h3>
+                                    <p class="margin-b-5">Desarrollo y personalización de proyectos sobre el CMS Drupal.</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>    
                             </div>
@@ -225,8 +225,8 @@
                                     <i class="service-icon icon-badge"></i>
                                 </div>
                                 <div class="service-info">
-                                    <h3>Sketch</h3>
-                                    <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
+                                    <h3>Symfony</h3>
+                                    <p class="margin-b-5">Desarrollo de software a la medida con el Framework Symfony 3.</p>
                                 </div>
                                 <a href="#" class="content-wrapper-link"></a>    
                             </div>
@@ -342,28 +342,28 @@
                 <div class="container content-lg">
                     <div class="row margin-b-40">
                         <div class="col-sm-6">
-                           <h2>Contact Me</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed tempor incididunt ut laboret dolore magna aliqua enim minim veniam exercitation</p>
+                           <h2>Contacto</h2>
+                            <p>Actualmente vivo en la ciudad de Bogotá.</p>
                         </div>
                     </div>
                     <!--// end row -->
 
                     <div class="row">
                         <div class="col-md-3 col-xs-6 md-margin-b-30">
-                            <h4>Location</h4>
-                            <a href="#">Brookyln, New York</a>
+                            <h4>Ubicación</h4>
+                            <a href="#">Bogotá, Colombia</a>
                         </div>
                         <div class="col-md-3 col-xs-6 md-margin-b-30">
-                            <h4>Phone</h4>
-                            <a href="#">+77 234 548 00 00</a>
+                            <h4>Celular</h4>
+                            <a href="#">+57 1 301 519 2617</a>
                         </div>
                         <div class="col-md-3 col-xs-6">
                             <h4>Email</h4>
-                            <a href="mailto:#">alex.teseira@gmail.com</a>
+                            <a href="mailto:#">gilbertgol@gmail.com</a>
                         </div>
                         <div class="col-md-3 col-xs-6">
                             <h4>Web</h4>
-                            <a href="#">alex.teseira.com</a>
+                            <a href="#">cv.gilbertoorozco.net</a>
                         </div>
                     </div>
                     <!--// end row -->
@@ -381,7 +381,7 @@
                         <img class="footer-logo" src="img/logo.png" alt="Acecv Logo">
                     </div>
                     <div class="col-xs-6 text-right sm-text-left">
-                        <p class="margin-b-0"><a class="fweight-700" href="http://keenthemes.com/preview/acecv/">Acecv</a> Theme Powered by: <a class="fweight-700" href="http://www.keenthemes.com/">KeenThemes.com</a></p>
+                        <p class="margin-b-0">Gilberto Orozco Linero &copy; 2016</p>
                     </div>
                 </div>
                 <!--// end row -->
