@@ -112,7 +112,7 @@
             <div class="container content-lg">
                 <div class="row">
                     <div class="col-sm-5 sm-margin-b-60">
-                        <img class="full-width img-responsive" src="img/500x700/01.jpg" alt="Image">
+                        <img class="full-width img-responsive" src="img/500x700/01.png" alt="Image">
                     </div>
                     <div class="col-sm-7">
                         <div class="section-seperator margin-b-50">
@@ -122,7 +122,7 @@
                                     <p>Soy Gilberto Orozco, Ingeniero de Sistemas de la Universidad Tecnológica de Bolívar, con Maestría en Dirección e Ingeniería de Sitios Web de la UNIR (Universidad Internacional de la Rioja - España).</p>
                                     <p>Soy una persona dispuesta a asumir retos y me gusta estar arendiendo y aplicando las nuevas tecnologías que estén disponible para solucionar los problemas y alcanzar las metas según se requiera.</p>
                                 </div>
-                                <a href="#" class="btn-theme btn-theme-md btn-default-bg text-uppercase">Descargar mi CV en PDF</a>
+                                <a href="/docs/Gilberto-Orozco-Linero.pdf" class="btn-theme btn-theme-md btn-default-bg text-uppercase">Descargar mi CV en PDF</a>
                             </div>
                         </div>
 
